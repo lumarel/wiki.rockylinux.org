@@ -3,7 +3,6 @@ name: MegaLinter
 
 on:
   pull_request:
-    branches: [master]
 
 permissions: read-all
 
